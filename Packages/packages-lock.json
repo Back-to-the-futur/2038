@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.siccity.gltfutility": {
+      "version": "https://github.com/siccity/gltfutility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+      },
+      "hash": "ac70aeb91915ccb157eedca167b7de8a4b55fd31"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.12",
       "depth": 0,
@@ -56,6 +65,13 @@
         "com.unity.editorcoroutines": "1.0.0",
         "com.unity.settings-manager": "1.0.2"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "2.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {

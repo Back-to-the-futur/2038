@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1966411757232844647
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 5
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -20,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: dissolve_burning material
-  m_Shader: {fileID: 4800000, guid: 1d8c27aafbb4bf94788d54c0a166746f, type: 3}
+  m_Name: color transition
+  m_Shader: {fileID: 4800000, guid: d0f67e1dcacd4504288dfcd95ddd4ae1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -78,7 +65,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _base_distortion:
-        m_Texture: {fileID: 2800000, guid: 8294dc663367e2449913dfda48bd3737, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9ea3db008d22d6f4c81e6ac4a6f6b299, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _base_normal:
@@ -87,14 +74,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _base_texture:
         m_Texture: {fileID: 2800000, guid: ad1f6cfa7726eee43947fc0a405e6577, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _noise_dissolve_map:
-        m_Texture: {fileID: 2800000, guid: 3b4e86349b8d51744bac7a78cc5b8b31, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _normal_distortion:
-        m_Texture: {fileID: 2800000, guid: 20fa4acbda9d55a43a744e986c400d20, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -141,14 +120,28 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _TransmissionShadow: 0.5
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - __dirty: 0
-    - _dissolveAmount: 0
+    - _colorAmount: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 1, g: 0.7080698, b: 0.19245276, a: 0}
+    - _Color1: {r: 1, g: 0.15016598, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _leafcolor: {r: 0.9137255, g: 0.36023715, b: 0, a: 0}
   m_BuildTextureStacks: []
+--- !u!114 &1046816321437212062
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

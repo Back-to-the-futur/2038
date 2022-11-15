@@ -1,0 +1,12 @@
+Use;
+
+Q = To switch weapons
+M and N to cycle target on radar screen
+Num Lock= to lock onto selected target
+Backspace = to release target lock
+Z+1 to Fire Rockets
+Z+2 to fire Missile
+Fire to Fire Gun,Rocket or Missile based on current weapon selection
+
+Left Screen is the radar screen, displays current target selected on radar
+Right Screen is the target screen, displays locked target

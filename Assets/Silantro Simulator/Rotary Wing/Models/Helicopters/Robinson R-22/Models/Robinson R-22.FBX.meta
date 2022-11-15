@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 7a2e52c91da36034983ccded0753cdc3
+timeCreated: 1553385411
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beacon Light
+    100002: Blade N1
+    100004: Blade N2
+    100006: Dashboard
+    100008: Engine
+    100010: Fuselage
+    100012: Interior
+    100014: Landing Lights
+    100016: Light Glass
+    100018: Main Rotor
+    100020: //RootNode
+    100022: Rotor Head
+    100024: Seats
+    100026: Skids
+    100028: Tail Rotor
+    100030: tubing
+    100032: Window
+    400000: Beacon Light
+    400002: Blade N1
+    400004: Blade N2
+    400006: Dashboard
+    400008: Engine
+    400010: Fuselage
+    400012: Interior
+    400014: Landing Lights
+    400016: Light Glass
+    400018: Main Rotor
+    400020: //RootNode
+    400022: Rotor Head
+    400024: Seats
+    400026: Skids
+    400028: Tail Rotor
+    400030: tubing
+    400032: Window
+    2300000: Beacon Light
+    2300002: Blade N1
+    2300004: Blade N2
+    2300006: Dashboard
+    2300008: Engine
+    2300010: Fuselage
+    2300012: Interior
+    2300014: Landing Lights
+    2300016: Light Glass
+    2300018: Main Rotor
+    2300020: Rotor Head
+    2300022: Seats
+    2300024: Skids
+    2300026: Tail Rotor
+    2300028: tubing
+    2300030: Window
+    3300000: Beacon Light
+    3300002: Blade N1
+    3300004: Blade N2
+    3300006: Dashboard
+    3300008: Engine
+    3300010: Fuselage
+    3300012: Interior
+    3300014: Landing Lights
+    3300016: Light Glass
+    3300018: Main Rotor
+    3300020: Rotor Head
+    3300022: Seats
+    3300024: Skids
+    3300026: Tail Rotor
+    3300028: tubing
+    3300030: Window
+    4300000: Tail Rotor
+    4300002: Main Rotor
+    4300004: Rotor Head
+    4300006: Blade N1
+    4300008: Blade N2
+    4300010: Skids
+    4300012: Light Glass
+    4300014: Landing Lights
+    4300016: Fuselage
+    4300018: Window
+    4300020: Engine
+    4300022: tubing
+    4300024: Seats
+    4300026: Dashboard
+    4300028: Interior
+    4300030: Beacon Light
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 53
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

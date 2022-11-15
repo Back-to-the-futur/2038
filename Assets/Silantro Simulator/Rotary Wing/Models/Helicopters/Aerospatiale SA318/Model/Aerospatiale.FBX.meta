@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: bcdd8cd511f96e44f817253638702c75
+timeCreated: 1557102934
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Antenna
+    100004: Canopy
+    100006: Canopy Glass
+    100008: Cockpit
+    100010: Engine
+    100012: Fire Extinguisher
+    100014: Fuel Tank
+    100016: Main Rotor
+    100018: Stabilizers
+    100020: Stick
+    100022: Support
+    100024: Tail Boom
+    100026: Tail Rotor
+    400000: //RootNode
+    400002: Antenna
+    400004: Canopy
+    400006: Canopy Glass
+    400008: Cockpit
+    400010: Engine
+    400012: Fire Extinguisher
+    400014: Fuel Tank
+    400016: Main Rotor
+    400018: Stabilizers
+    400020: Stick
+    400022: Support
+    400024: Tail Boom
+    400026: Tail Rotor
+    2300000: Antenna
+    2300002: Canopy
+    2300004: Canopy Glass
+    2300006: Cockpit
+    2300008: Engine
+    2300010: Fire Extinguisher
+    2300012: Fuel Tank
+    2300014: Main Rotor
+    2300016: Stabilizers
+    2300018: Stick
+    2300020: Support
+    2300022: Tail Boom
+    2300024: Tail Rotor
+    3300000: Antenna
+    3300002: Canopy
+    3300004: Canopy Glass
+    3300006: Cockpit
+    3300008: Engine
+    3300010: Fire Extinguisher
+    3300012: Fuel Tank
+    3300014: Main Rotor
+    3300016: Stabilizers
+    3300018: Stick
+    3300020: Support
+    3300022: Tail Boom
+    3300024: Tail Rotor
+    4300000: Fire Extinguisher
+    4300002: Canopy Glass
+    4300004: Cockpit
+    4300006: Antenna
+    4300008: Engine
+    4300010: Tail Boom
+    4300012: Tail Rotor
+    4300014: Canopy
+    4300016: Fuel Tank
+    4300018: Main Rotor
+    4300020: Support
+    4300022: Stabilizers
+    4300024: Stick
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,7 +10,6 @@ public class OnTriggerSpawnEvent : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("calling function");
         if (other.name == colliderName) {
             if (other.tag == null || other.tag == tagName) {
                 Instantiate(objectSpawning, transform.position, transform.rotation, transform);

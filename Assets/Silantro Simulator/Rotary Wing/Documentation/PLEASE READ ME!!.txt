@@ -1,0 +1,5 @@
+I'm still working on some components for the helicopter, and some things might still change so the data in the manual is still from v2.35.
+
+I will update the manual and documentation once I'm done with the next minor update (v3.1.x)
+
+If you have any problems with any of the helicopter components or you need an explanation on what something does, please email me :)

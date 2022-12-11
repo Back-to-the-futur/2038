@@ -1,0 +1,19 @@
+For maximum accuracy and smoothness of controls, Joystick or Console controller input is recommended.
+
+To use Keyboard inputs, you'll have to slightly adjust the Sensitivity and Gravity of each axis key mapping.
+e.g 
+
+A. For Low Fidelity Helicopters
+Roll Sensitivity = 2f
+Roll Gravity = 0.35f
+
+Pitch Sensitivity = 2.1f;
+Pitch Gravity = 0.4f
+
+B. For High Fidelity Helicopters
+Roll Sensitivity = 2f
+Roll Gravity = 1f
+
+Pitch Sensitivity = 2.1f;
+Pitch Gravity = 1f
+Please contact me if you run into any problems

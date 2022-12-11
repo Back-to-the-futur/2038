@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 6315520b109faec44939be2d941a517b
+timeCreated: 1554662932
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door_cabin
+    100004: door_cabin01
+    100006: door_cabin02
+    100008: Door_L
+    100010: Door_R
+    100012: Front_Door_L
+    100014: fuselage
+    100016: light
+    100018: main_rotor
+    100020: mirrors
+    100022: Rear_rotor
+    100024: Rear_rotor01
+    100026: Rear_rotor02
+    100028: Rear_rotor03
+    100030: Rear_rotor04
+    100032: Rear_rotor05
+    100034: Rear_rotor06
+    100036: Rear_rotor07
+    100038: Rear_rotor08
+    100040: Rear_rotor09
+    100042: Rear_rotor10
+    100044: tray
+    100046: tray01
+    100048: tray02
+    400000: //RootNode
+    400002: door_cabin
+    400004: door_cabin01
+    400006: door_cabin02
+    400008: Door_L
+    400010: Door_R
+    400012: Front_Door_L
+    400014: fuselage
+    400016: light
+    400018: main_rotor
+    400020: mirrors
+    400022: Rear_rotor
+    400024: Rear_rotor01
+    400026: Rear_rotor02
+    400028: Rear_rotor03
+    400030: Rear_rotor04
+    400032: Rear_rotor05
+    400034: Rear_rotor06
+    400036: Rear_rotor07
+    400038: Rear_rotor08
+    400040: Rear_rotor09
+    400042: Rear_rotor10
+    400044: tray
+    400046: tray01
+    400048: tray02
+    2300000: door_cabin01
+    2300002: door_cabin02
+    2300004: Door_L
+    2300006: Door_R
+    2300008: Front_Door_L
+    2300010: fuselage
+    2300012: light
+    2300014: main_rotor
+    2300016: mirrors
+    2300018: Rear_rotor01
+    2300020: Rear_rotor02
+    2300022: Rear_rotor03
+    2300024: Rear_rotor04
+    2300026: Rear_rotor05
+    2300028: Rear_rotor06
+    2300030: Rear_rotor07
+    2300032: Rear_rotor08
+    2300034: Rear_rotor09
+    2300036: Rear_rotor10
+    2300038: tray01
+    2300040: tray02
+    3300000: door_cabin01
+    3300002: door_cabin02
+    3300004: Door_L
+    3300006: Door_R
+    3300008: Front_Door_L
+    3300010: fuselage
+    3300012: light
+    3300014: main_rotor
+    3300016: mirrors
+    3300018: Rear_rotor01
+    3300020: Rear_rotor02
+    3300022: Rear_rotor03
+    3300024: Rear_rotor04
+    3300026: Rear_rotor05
+    3300028: Rear_rotor06
+    3300030: Rear_rotor07
+    3300032: Rear_rotor08
+    3300034: Rear_rotor09
+    3300036: Rear_rotor10
+    3300038: tray01
+    3300040: tray02
+    4300000: mirrors
+    4300002: main_rotor
+    4300004: Front_Door_L
+    4300006: Door_L
+    4300008: Door_R
+    4300010: light
+    4300012: tray01
+    4300014: tray02
+    4300016: fuselage
+    4300018: Rear_rotor01
+    4300020: Rear_rotor05
+    4300022: Rear_rotor07
+    4300024: Rear_rotor06
+    4300026: Rear_rotor02
+    4300028: Rear_rotor04
+    4300030: Rear_rotor03
+    4300032: Rear_rotor08
+    4300034: Rear_rotor10
+    4300036: Rear_rotor09
+    4300038: door_cabin01
+    4300040: door_cabin02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

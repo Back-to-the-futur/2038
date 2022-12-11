@@ -1,0 +1,50 @@
+Before opening any of the sample scenes please do the following
+
+1. Setup Input from the menu >> Oyedoyin/Rotary Wing/Misc/Setup Input
+
+2. Create the following layers in the following order
+	a. Ground - Layer 8
+	b. Aircraft - Layer 9
+	c. Human - Layer 10
+	d. Munition - Layer 11
+
+3. Disable the following collision in the physics settings
+	a. Aircraft-Munition
+	b. Aircraft-Human
+	c. Aircraft-Aircraft
+	d. Munition-Human
+	e. Munition-Munition
+
+4. a. Move all the aircraft colliders to the "Aircraft" layer
+   b. Move the "Hardpoint" gameobject in the aircraft (Only for weapon enabled aircrafts) to the "Munition" layer
+   c. Move the Bullet/Rocket/Bomb and Missile prefabs to the "Munition" layer
+   d. Move the Players/Player prefabs and Pilot gameobjects to the "Human" layer
+
+Note: Some of these should be done automatically, but its always better to double check
+
+
+5. For maximum accuracy and smoothness of controls, Joystick or Console controller input is recommended.
+
+To use Keyboard inputs, you'll have to slightly adjust the Sensitivity and Gravity of each axis key mapping.
+e.g 
+
+A. For Low Fidelity Helicopters
+Roll Sensitivity = 2f
+Roll Gravity = 0.35f
+
+Pitch Sensitivity = 2.1f;
+Pitch Gravity = 0.4f
+
+B. For High Fidelity Helicopters
+Roll Sensitivity = 2f
+Roll Gravity = 1f
+
+Pitch Sensitivity = 2.1f;
+Pitch Gravity = 1f
+
+6. Please send me a request email to get the VR demo project
+
+
+
+You can mail me if you run into any problems or report bugs.
+silantrosimulator@gmail.com

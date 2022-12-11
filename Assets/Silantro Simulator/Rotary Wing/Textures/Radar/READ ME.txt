@@ -1,0 +1,4 @@
+You can use the Adobe AI files to in the "Resources" folder to make new Icons
+
+Use the "object scale" float in the radar to determine the best Icon size export
+e.g a 64x64 icon will scale properly between 2.5-3
